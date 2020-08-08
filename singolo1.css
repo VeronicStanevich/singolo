@@ -570,19 +570,19 @@ template {
     border: none;
 }
 .button_f{
-    background-image: url(".idea/button_f.png");
+    background-image: url("assets/images/button_f.png");
 }
 
 .button_g{
-    background-image: url(".idea/button_g.png");
+    background-image: url("assets/images/button_g.png");
 }
 
 .button_t{
-    background-image: url(".idea/button_t.png");
+    background-image: url("assets/images/button_t.png");
 }
 
 .button_in{
-    background-image: url(".idea/button_in.png");
+    background-image: url("assets/images/button_in.png");
 }
 .get_a_quote{
     padding-top: 70px;
@@ -636,17 +636,17 @@ template {
     border-radius: 25%;
 }
 .bottom_block_button_f{
-    background-image: url(".idea/f_bottom_button.png");
+    background-image: url("assets/images/f_bottom_button.png");
 }
 
 .bottom_block_button_g{
-    background-image: url(".idea/g_bottom_button.png");
+    background-image: url("assets/images/g_bottom_button.png");
 }
 
 .bottom_block_button_t{
-    background-image: url(".idea/t_bottom_button.png");
+    background-image: url("assets/images/t_bottom_button.png");
 }
 
 .bottom_block_button_in{
-    background-image: url(".idea/in_bottom_button.png");
+    background-image: url("assets/images/in_bottom_button.png");
 }
