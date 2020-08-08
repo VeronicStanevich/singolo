@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6722572d-4f2f-4cb8-af40-9948464c88ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6722572d-4f2f-4cb8-af40-9948464c88ba" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -60,19 +58,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/singolo1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3345">
+            <state relative-caret-position="2382">
               <caret line="223" column="68" selection-start-line="223" selection-start-column="68" selection-end-line="223" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/singolo1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
+            <state relative-caret-position="6735">
               <caret line="449" column="9" selection-start-line="449" selection-start-column="9" selection-end-line="449" selection-end-column="9" />
             </state>
           </provider>
@@ -182,12 +180,12 @@
       <workItem from="1583609495714" duration="8087000" />
       <workItem from="1583695145314" duration="6957000" />
       <workItem from="1594730761491" duration="85723000" />
-      <workItem from="1596813686885" duration="4834000" />
+      <workItem from="1596813686885" duration="5078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105601000" />
+    <option name="totallyTimeSpent" value="105845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="25" width="1388" height="875" extended-state="0" />
@@ -282,17 +280,17 @@
     <entry file="file://$PROJECT_DIR$/.idea/map_icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/singolo1.html">
+    <entry file="file://$PROJECT_DIR$/singolo1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3345">
-          <caret line="223" column="68" selection-start-line="223" selection-start-column="68" selection-end-line="223" selection-end-column="68" />
+        <state relative-caret-position="6735">
+          <caret line="449" column="9" selection-start-line="449" selection-start-column="9" selection-end-line="449" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/singolo1.css">
+    <entry file="file://$PROJECT_DIR$/singolo1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="449" column="9" selection-start-line="449" selection-start-column="9" selection-end-line="449" selection-end-column="9" />
+        <state relative-caret-position="2382">
+          <caret line="223" column="68" selection-start-line="223" selection-start-column="68" selection-end-line="223" selection-end-column="68" />
         </state>
       </provider>
     </entry>
