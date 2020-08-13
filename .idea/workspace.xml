@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6722572d-4f2f-4cb8-af40-9948464c88ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/10portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/10portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/11portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/11portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/12portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/12portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/1portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/1portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/2portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/3portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/3portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/4portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/4portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/5portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/5portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/6portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/6portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/7portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/7portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/8portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/8portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/9portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/9portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/button_f.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/button_f.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/button_g.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/button_g.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/button_in.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/button_in.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/button_t.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/button_t.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/f_bottom_button.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/f_bottom_button.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/g_bottom_button.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/g_bottom_button.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/heart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/img1_S.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/img1_S.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/img2_S.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/img2_S.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/in_bottom_button.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/in_bottom_button.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/light bulb.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/light bulb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/map_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/map_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/message.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/message.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/message_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/message_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pencil.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pencil.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/phone_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/phone_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/photo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/photo1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/photo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/photo2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/photo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/photo3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/singolo_img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/singolo_img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/star.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/star.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/t_bottom_button.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/t_bottom_button.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/singolo1.css" beforeDir="false" afterPath="$PROJECT_DIR$/singolo1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singolo1.html" beforeDir="false" afterPath="$PROJECT_DIR$/singolo1.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,8 +32,8 @@
           <entry key="gitignore" value="1" />
           <entry key="html" value="3" />
           <entry key="iml" value="3" />
-          <entry key="png" value="9" />
-          <entry key="rnc" value="3" />
+          <entry key="png" value="11" />
+          <entry key="rnc" value="4" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
@@ -78,24 +42,25 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="3" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="Image" value="9" />
+          <entry key="Image" value="11" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="RNG Compact" value="3" />
+          <entry key="RNG Compact" value="4" />
           <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3568" />
+          <entry key="css" value="3660" />
           <entry key="gitignore" value="8" />
-          <entry key="html" value="3819" />
+          <entry key="html" value="4055" />
+          <entry key="txt" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3568" />
-          <entry key="HTML" value="3819" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="CSS" value="3660" />
+          <entry key="HTML" value="4055" />
+          <entry key="PLAIN_TEXT" value="49" />
         </counts>
       </usages-collector>
     </session>
@@ -103,19 +68,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/singolo1.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3750">
-              <caret line="250" column="7" lean-forward="true" selection-start-line="250" selection-start-column="7" selection-end-line="250" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="331">
+              <caret line="231" selection-start-line="231" selection-end-line="232" />
             </state>
           </provider>
         </entry>
@@ -123,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/singolo1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4591">
-              <caret line="449" column="9" selection-start-line="449" selection-start-column="9" selection-end-line="449" selection-end-column="9" />
+            <state relative-caret-position="316">
+              <caret line="640" column="17" lean-forward="true" selection-start-line="640" selection-start-column="17" selection-end-line="640" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -138,6 +94,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>about_us_button</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -145,9 +106,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$USER_HOME$/Desktop/second_chase/singolo1.html" />
-        <option value="$PROJECT_DIR$/singolo1.css" />
         <option value="$PROJECT_DIR$/singolo1.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/singolo1.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -195,7 +157,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/admin/WebstormProjects/singolo/singolo1.html" />
+    <property name="SearchEverywhereHistoryKey" value="about_us&#9;null&#9;null&#10;portfolio_text&#9;null&#9;null&#10;img_services&#9;null&#9;null&#10;bottom_block&#9;null&#9;null&#10;about_us_button&#9;null&#9;null&#10;inpu&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,15 +199,30 @@
       <workItem from="1594730761491" duration="85723000" />
       <workItem from="1596813686885" duration="5078000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add git ignore">
+      <created>1596915788931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596915788931</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: rename index html">
+      <created>1596967653366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596967653366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106595000" />
+    <option name="totallyTimeSpent" value="121228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="25" width="1388" height="875" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49936143" visible="true" weight="0.20043892" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936143" visible="true" weight="0.20043892" />
       <window_info id="Structure" order="1" sideWeight="0.50063854" side_tool="true" weight="0.14996342" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -257,7 +234,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32950193" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32950193" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -288,6 +265,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add git ignore" />
+    <MESSAGE value="feat: rename index html" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: rename index html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/legacy.rnc">
@@ -332,16 +314,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/icon_map.png" />
-    <entry file="file://$PROJECT_DIR$/assets/images/map_icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singolo1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4591">
-          <caret line="449" column="9" selection-start-line="449" selection-start-column="9" selection-end-line="449" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/g_bottom_button.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -360,17 +332,37 @@
     <entry file="file://$PROJECT_DIR$/assets/images/1portfolio.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/structural.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="166">
+          <caret line="147" column="16" selection-start-line="147" selection-start-column="16" selection-end-line="147" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/singolo1.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3750">
-          <caret line="250" column="7" lean-forward="true" selection-start-line="250" selection-start-column="7" selection-end-line="250" selection-end-column="7" />
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/map_icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/phone_icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singolo1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="640" column="17" lean-forward="true" selection-start-line="640" selection-start-column="17" selection-end-line="640" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="231" selection-start-line="231" selection-end-line="232" />
         </state>
       </provider>
     </entry>
